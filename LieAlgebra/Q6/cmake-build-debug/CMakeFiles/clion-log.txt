@@ -1,0 +1,87 @@
+/snap/clion/114/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/haha/Downloads/SLAM第三讲作业资料/L3/Q6
+-- The C compiler identification is GNU 7.5.0
+-- The CXX compiler identification is GNU 7.5.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Performing Test COMPILER_SUPPORTS_CXX11
+-- Performing Test COMPILER_SUPPORTS_CXX11 - Success
+-- Performing Test COMPILER_SUPPORTS_CXX0X
+-- Performing Test COMPILER_SUPPORTS_CXX0X - Success
+-- Using flag -std=c++11.
+-- Configuring done
+CMake Error in CMakeLists.txt:
+  Imported target "pangolin" includes non-existent path
+
+    "/usr/include/eigen3"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in CMakeLists.txt:
+  Imported target "pangolin" includes non-existent path
+
+    "/usr/include/eigen3"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in CMakeLists.txt:
+  Imported target "pangolin" includes non-existent path
+
+    "/usr/include/eigen3"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+CMake Error in CMakeLists.txt:
+  Imported target "pangolin" includes non-existent path
+
+    "/usr/include/eigen3"
+
+  in its INTERFACE_INCLUDE_DIRECTORIES.  Possible reasons include:
+
+  * The path was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and references files it does not
+  provide.
+
+
+
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.

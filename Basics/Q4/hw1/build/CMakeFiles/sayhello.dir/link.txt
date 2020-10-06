@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/sayhello.dir/useHello.c.o  -o sayhello -Wl,-rpath,/home/hi/Downloads/PA1/hw1/build libhello.so 
